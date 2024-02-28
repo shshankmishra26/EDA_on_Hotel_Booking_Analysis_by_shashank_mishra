@@ -1,0 +1,4 @@
+https://colab.research.google.com/drive/1jRLMWHgt6cNZdMDaBf1eIOBt39OX3Lx9?usp=sharing
+
+hotel booking analysis 
+google colab solution link
